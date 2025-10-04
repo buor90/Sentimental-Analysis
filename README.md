@@ -1,2 +1,9 @@
 # Sentimental-Analysis
-This repository contains the files of a sentimental analysis done on the IMDB movie ratings dataset.
+
+A sentimental analysis of IMDB movie ratings using MultinomialNB classifier. 
+
+## Features
+- Text preprocessing (cleaning, lemmatization, stopword removal)
+- CountVectorizer
+- Multinomial Naive Bayes classification
+- Model evaluation with classification report
