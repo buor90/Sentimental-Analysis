@@ -1,4 +1,4 @@
-# Sentimental-Analysis
+# Sentimental Analysis
 
 A sentimental analysis of IMDB movie ratings using MultinomialNB classifier. 
 
