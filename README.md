@@ -7,3 +7,14 @@ A sentimental analysis of IMDB movie ratings using MultinomialNB classifier.
 - CountVectorizer
 - Multinomial Naive Bayes classification
 - Model evaluation with classification report
+
+## Results 
+Class 1 :
+Precision : 87%
+F1-Score : 86%
+Recall : 84%
+
+Class 0 :
+Precision : 85%
+F1-Score : 86%
+Recall : 88%
